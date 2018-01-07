@@ -1,6 +1,6 @@
+retrying
 grpcio
 grpcio-tools
 googleapis-common-protos
 jsonrpc-requests
 requests
-retrying
